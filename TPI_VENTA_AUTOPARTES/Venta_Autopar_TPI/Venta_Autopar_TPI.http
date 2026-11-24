@@ -1,0 +1,6 @@
+@Venta_Autopar_TPI_HostAddress = http://localhost:5194
+
+GET {{Venta_Autopar_TPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

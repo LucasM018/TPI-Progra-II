@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\Venta_Autopar_TPI.Core\bin\Debug\net8.0\VentaAutoparTPI.Core.deps.json
+C:\Users\user\source\repos\Venta_Autopar_TPI.Core\bin\Debug\net8.0\VentaAutoparTPI.Core.runtimeconfig.json
+C:\Users\user\source\repos\Venta_Autopar_TPI.Core\bin\Debug\net8.0\VentaAutoparTPI.Core.dll
+C:\Users\user\source\repos\Venta_Autopar_TPI.Core\bin\Debug\net8.0\VentaAutoparTPI.Core.pdb
+C:\Users\user\source\repos\Venta_Autopar_TPI.Core\obj\Debug\net8.0\VentaAutoparTPI.Core.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Venta_Autopar_TPI.Core\obj\Debug\net8.0\VentaAutoparTPI.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\Venta_Autopar_TPI.Core\obj\Debug\net8.0\VentaAutoparTPI.Core.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Venta_Autopar_TPI.Core\obj\Debug\net8.0\VentaAutoparTPI.Core.AssemblyInfo.cs
+C:\Users\user\source\repos\Venta_Autopar_TPI.Core\obj\Debug\net8.0\VentaAutoparTPI.Core.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Venta_Autopar_TPI.Core\obj\Debug\net8.0\VentaAutoparTPI.Core.dll
+C:\Users\user\source\repos\Venta_Autopar_TPI.Core\obj\Debug\net8.0\refint\VentaAutoparTPI.Core.dll
+C:\Users\user\source\repos\Venta_Autopar_TPI.Core\obj\Debug\net8.0\VentaAutoparTPI.Core.pdb
+C:\Users\user\source\repos\Venta_Autopar_TPI.Core\obj\Debug\net8.0\VentaAutoparTPI.Core.genruntimeconfig.cache
+C:\Users\user\source\repos\Venta_Autopar_TPI.Core\obj\Debug\net8.0\ref\VentaAutoparTPI.Core.dll

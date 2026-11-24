@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "Nuevo perfil",
+    "Projects": [
+      {
+        "Path": "VentaAutoparTPI.Api.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "..\\VentaAutoparTPIFrontend\\VentaAutoparTPI.Frontend.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]
